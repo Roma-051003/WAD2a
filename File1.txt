@@ -1,0 +1,1 @@
+GitHub Copilot is an AI-powered coding assistant that helps developers write code faster. With Copilot Business, you can manage access to GitHub Copilot for organizations. Once you grant an organization access to GitHub Copilot, the administrators of that organization can grant access to individuals and teams.
